@@ -1,0 +1,14 @@
+package com.example.ivf.domain.enums;
+
+public enum TimelineEventType {
+    INITIAL_CONSULTATION,
+    DIAGNOSTIC_TESTING,
+    STIMULATION_START,
+    MONITORING_VISIT,
+    TRIGGER_SHOT,
+    OOCYTE_RETRIEVAL,
+    FERTILIZATION,
+    EMBRYO_TRANSFER,
+    CRYOPRESERVATION,
+    PREGNANCY_TEST
+}
